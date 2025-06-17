@@ -1,0 +1,5 @@
+{"instruction": "What should I do if a GPS tracker goes offline?", "output": "Ensure the tracker has power, check SIM card signal, restart device, and contact supervisor if issue persists."}
+{"instruction": "What are the safety requirements before starting work?", "output": "Wear helmet, reflective jacket, and attend the daily safety briefing."}
+{"instruction": "What was the issue at Node X?", "output": "There was a power failure due to inverter malfunction. It was resolved after 26 hours."}
+{"instruction": "When should a safety incident form be submitted?", "output": "Within 2 hours of the injury or incident."}
+{"instruction": "How do I handle a vehicle without GPS tracking?", "output": "Follow standard troubleshooting: check power, SIM, restart. Escalate if unresolved."}
