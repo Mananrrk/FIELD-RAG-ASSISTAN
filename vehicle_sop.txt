@@ -1,0 +1,7 @@
+Title: Vehicle GPS Tracking - Troubleshooting Guide
+
+1. Ensure the GPS tracker is connected to a power source.
+2. Check SIM card for network issues.
+3. Restart the tracking unit.
+4. Confirm location is not in a signal dead zone.
+5. Report persistent issues to the fleet supervisor.
